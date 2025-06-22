@@ -57,7 +57,7 @@ Sehat Guftagu is an innovative AI-powered medical report analysis system that he
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Kaleemullah-Younas/sehat-guftagu.git
+git clone https://github.com/Kaleemullah-Younas/Sehat-Guftagu-Version.o2.git
 cd sehat-guftagu
 ```
 
@@ -100,13 +100,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📺 Demo Youtube Video link 
-[YOUTUBE LINK!](https://youtu.be/PiPIYYqmuAo)
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## 🙏 Acknowledgments
 
